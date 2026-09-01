@@ -6,7 +6,7 @@ import { StickerDetail } from "./pages/StickerDetail"
 
 function App() {
   return (
-    <BrowserRouter basename="/botan-stickers">
+    <BrowserRouter basename="/lindsey_rice_candy">
       <Header />
 
       <Routes>

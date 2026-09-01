@@ -27,7 +27,7 @@ export function Home() {
           </h1>
 
           <p className="hero-description">
-            Lindsey's Botan rice candy sticker collection.
+            Lindsey's Botan rice candy sticker collection. Under construction for now.
           </p>
 
           <Link to="/stickers" className="primary-button">
